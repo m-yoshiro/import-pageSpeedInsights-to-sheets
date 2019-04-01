@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/m-yoshiro/import-pageSpeedInsights-to-sheets/issues"
   },
-  "homepage": "https://github.com/m-yoshiro/import-pageSpeedInsights-to-sheets#readme"
+  "homepage": "https://github.com/m-yoshiro/import-pageSpeedInsights-to-sheets#readme",
+  "dependencies": {
+    "@types/google-apps-script": "0.0.41"
+  }
 }
