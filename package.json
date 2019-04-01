@@ -22,6 +22,7 @@
     "@types/google-apps-script": "0.0.41"
   },
   "devDependencies": {
+    "dotenv": "^7.0.0",
     "nodemon": "^1.18.10",
     "ts-node": "^8.0.3",
     "tslint": "^5.14.0",
