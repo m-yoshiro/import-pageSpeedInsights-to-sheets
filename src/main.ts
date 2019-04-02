@@ -10,5 +10,4 @@ const options = {
   strategy: 'mobile',
 };
 
-const request = pageSpeedApi(options);
-console.log(request)
+const request = pageSpeedApi(options).then(data => console.log(data));
